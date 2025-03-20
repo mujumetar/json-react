@@ -20,7 +20,7 @@ function Navbar() {
                             <a className="nav-link" href="#">Pricing</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link disabled" href="#" aria-disabled="true">Disabled</a>
+                           <input type="text" placeholder='search here...' />
                         </li>
                     </ul>
                 </div>
